@@ -137,7 +137,8 @@ for m in markers:
 ```
 
 [sr-api]: https://studentrobotics.org/docs/programming/sr/
-Functions
+
+## Functions
 
 1. drive(speed, seconds)
 Sets a linear velocity for the robot.

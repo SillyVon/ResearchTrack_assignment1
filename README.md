@@ -15,6 +15,8 @@ This Python script is designed for controlling a robot to grab tokens in an envi
 
 ## Flow Chart 
 
+![](sr/RT_FlowChart.jpg)
+> Figure1) Flowchart of the algorithm
 
 
 
